@@ -2,6 +2,7 @@
 id: vtui-update
 title: VTUI Update
 sidebar_label: VTUI Update
+authors: ["vanguard"]
 ---
 
 # User Interface Changes (VTUI)
