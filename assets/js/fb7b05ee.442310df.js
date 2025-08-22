@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpatchnotes=self.webpackChunkpatchnotes||[]).push([[683],{7849:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/patchnotes/","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Latest updates and changes for VTUI and TFO.","blogTitle":"Patch Notes"}}')}}]);

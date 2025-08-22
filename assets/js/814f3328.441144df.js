@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpatchnotes=self.webpackChunkpatchnotes||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"VTUI Update","permalink":"/patchnotes/2025/08/22/vtui-update","unlisted":false,"date":"2025-08-22T00:00:00.000Z"}]}')}}]);
