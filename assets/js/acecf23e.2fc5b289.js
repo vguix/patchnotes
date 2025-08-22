@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpatchnotes=self.webpackChunkpatchnotes||[]).push([[903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/patchnotes/","blogTitle":"Patch Notes","authorsListPath":"/patchnotes/authors"}')}}]);
